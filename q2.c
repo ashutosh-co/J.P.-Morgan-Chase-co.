@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 void main(){
 	printf("Enter the size = ");
 	int size;
@@ -21,7 +21,8 @@ void main(){
 		printf(" %d",arr[i]);
 	}
 	
-}*/
+}
+// Another way
 #include <stdio.h>
 int main()
 {
