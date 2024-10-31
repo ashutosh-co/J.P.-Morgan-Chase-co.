@@ -1,8 +1,8 @@
-#include<stdio.h>
+
 
 
 #include <stdio.h>
-int main()
+void main()
 {
   int n, j = 0;
   scanf("%d", &n);
