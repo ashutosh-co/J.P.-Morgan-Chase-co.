@@ -32,7 +32,6 @@ int main()
   int a[n];
   for (int i = 0; i < n; i++)
   {
-	  //give the addres of each a[j]
     scanf("%d", &a[j]);
     if (a[j] != 0)
     {
