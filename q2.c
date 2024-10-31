@@ -42,5 +42,6 @@ void main()
   {
       printf("%d ", a[i]);
   }
+	printf("this is final output");
   return 0;
 }
