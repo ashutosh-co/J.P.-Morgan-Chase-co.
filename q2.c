@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 /*void main(){
 	printf("Enter the size = ");
@@ -23,9 +24,13 @@
 	
 }*/
 // Another way
+=======
+
+
+>>>>>>> 2df04dea91ddeee402081327cf2e793dd82d0ad0
 
 #include <stdio.h>
-int main()
+void main()
 {
   int n, j = 0;
   scanf("%d", &n);
